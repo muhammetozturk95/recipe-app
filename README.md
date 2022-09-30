@@ -6,6 +6,10 @@ I built this project by watching [video](https://www.youtube.com/watch?v=U9T6YkE
 
 ## Gallery
 
+
+https://user-images.githubusercontent.com/69854970/193214521-dd2ded55-c425-4cac-b405-be5d6e92330f.mp4
+
+
 ## Available Scripts
 
 In the project directory, you can run:
